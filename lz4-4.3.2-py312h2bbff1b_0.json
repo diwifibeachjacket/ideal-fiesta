@@ -1,0 +1,55 @@
+{
+  "build": "py312h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lz4-4.3.2-py312h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/lz4-4.3.2.dist-info/INSTALLER",
+    "Lib/site-packages/lz4-4.3.2.dist-info/LICENSE",
+    "Lib/site-packages/lz4-4.3.2.dist-info/METADATA",
+    "Lib/site-packages/lz4-4.3.2.dist-info/RECORD",
+    "Lib/site-packages/lz4-4.3.2.dist-info/REQUESTED",
+    "Lib/site-packages/lz4-4.3.2.dist-info/WHEEL",
+    "Lib/site-packages/lz4-4.3.2.dist-info/direct_url.json",
+    "Lib/site-packages/lz4-4.3.2.dist-info/top_level.txt",
+    "Lib/site-packages/lz4/__init__.py",
+    "Lib/site-packages/lz4/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lz4/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/lz4/_version.cp312-win_amd64.pyd",
+    "Lib/site-packages/lz4/block/__init__.py",
+    "Lib/site-packages/lz4/block/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lz4/block/_block.cp312-win_amd64.pyd",
+    "Lib/site-packages/lz4/frame/__init__.py",
+    "Lib/site-packages/lz4/frame/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lz4/frame/_frame.cp312-win_amd64.pyd",
+    "Lib/site-packages/lz4/version.py",
+    ".nonadmin"
+  ],
+  "fn": "lz4-4.3.2-py312h2bbff1b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lz4-4.3.2-py312h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "f6fed33c38803124fba5fc8625cd6173",
+  "name": "lz4",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lz4-4.3.2-py312h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::lz4==4.3.2=py312h2bbff1b_0[md5=f6fed33c38803124fba5fc8625cd6173]",
+  "sha256": "4398c0cb6a11cb846d9a3c2bb2a07adc053bc2e77d8ac141bcc5c00d584164f4",
+  "size": 73058,
+  "subdir": "win-64",
+  "timestamp": 1699559580000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lz4-4.3.2-py312h2bbff1b_0.conda",
+  "version": "4.3.2"
+}

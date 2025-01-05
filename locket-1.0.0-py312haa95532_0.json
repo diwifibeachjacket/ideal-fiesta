@@ -1,0 +1,43 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\locket-1.0.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/locket-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/locket-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/locket-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/locket-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/locket-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/locket-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/locket-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/locket-1.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/locket/__init__.py",
+    "Lib/site-packages/locket/__pycache__/__init__.cpython-312.pyc",
+    ".nonadmin"
+  ],
+  "fn": "locket-1.0.0-py312haa95532_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\locket-1.0.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "875ee3cb082208aef701ace67bf2e953",
+  "name": "locket",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\locket-1.0.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::locket==1.0.0=py312haa95532_0[md5=875ee3cb082208aef701ace67bf2e953]",
+  "sha256": "205d1f2fc4574f74b90535b9d98e0e3956acdf0b168ebb778ecc6797c209996d",
+  "size": 13599,
+  "subdir": "win-64",
+  "timestamp": 1699476525000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/locket-1.0.0-py312haa95532_0.conda",
+  "version": "1.0.0"
+}
