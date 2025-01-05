@@ -1,0 +1,50 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "uc-micro-py >=1.0.1,<2.0.0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\linkify-it-py-2.0.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/linkify_it/__init__.py",
+    "Lib/site-packages/linkify_it/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/linkify_it/__pycache__/main.cpython-312.pyc",
+    "Lib/site-packages/linkify_it/__pycache__/tlds.cpython-312.pyc",
+    "Lib/site-packages/linkify_it/__pycache__/ucre.cpython-312.pyc",
+    "Lib/site-packages/linkify_it/main.py",
+    "Lib/site-packages/linkify_it/tlds.py",
+    "Lib/site-packages/linkify_it/ucre.py",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/LICENSE",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/METADATA",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/RECORD",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/WHEEL",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/linkify_it_py-2.0.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "linkify-it-py-2.0.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\linkify-it-py-2.0.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "91665a917342e64ac7831802a916faaa",
+  "name": "linkify-it-py",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\linkify-it-py-2.0.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::linkify-it-py==2.0.0=py312haa95532_0[md5=91665a917342e64ac7831802a916faaa]",
+  "sha256": "313c86967c40cc235acd297697d4b5552ce6e4a5da2f39c04852d790217b497e",
+  "size": 39544,
+  "subdir": "win-64",
+  "timestamp": 1699558980000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/linkify-it-py-2.0.0-py312haa95532_0.conda",
+  "version": "2.0.0"
+}
